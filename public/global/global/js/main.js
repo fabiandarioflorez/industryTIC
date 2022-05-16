@@ -10,7 +10,6 @@ window.onload = function(){
   //Para las ventanas de eliminar
   var modal = document.getElementById('deleteModal')
   modal.addEventListener('show.bs.modal',function(event){
-      console.log('Hola desde main')
       var button = event.relatedTarget
       var name =  button.getAttribute('data-bs-name')
       var id =  button.getAttribute('data-bs-id')
