@@ -1,0 +1,21 @@
+main {
+    background-color:rgb(255, 255, 255);
+    background-size: cover;
+    /* background-image: url('/public/assets/media/img/nubes.jpg'); */
+    /* background-image: url('/public/assets/media/img/fondo-nevado.jpg'); */
+    background-image: url('/public/assets/media/img/index/fondo-white.jpg');
+       
+}
+
+.bg-navbar {
+    background-color: rgb(225, 219, 219);
+}
+
+.bg-gray {
+    background-color: rgb(188, 185, 185);
+}
+
+.bg-dark-trans{
+    background-color: rgba(0, 0, 0, 0.401);
+
+}
