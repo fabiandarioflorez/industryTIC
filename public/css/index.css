@@ -3,7 +3,8 @@
     background-size: cover;
     /* background-image: url('/public/assets/media/img/nubes.jpg'); */
     /* background-image: url('/public/assets/media/img/fondo-nevado.jpg'); */
-    background-image: url('./public/assets/media/img/index/fondo-white.jpg');
+    /* background-image: url('./public/assets/media/img/index/fondo-white.jpg'); */
+    background-image: url('../assets/media/img/index/fondo-white.jpg');
 }
 
 .bg-navbar {
